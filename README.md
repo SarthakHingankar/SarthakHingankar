@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarthakHingankar
 - 👀 I’m interested in Buliding apps and having fun with it
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Web-Development
 
 <!---
 SarthakHingankar/SarthakHingankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
