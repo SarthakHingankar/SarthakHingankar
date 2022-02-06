@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarthakHingankar
-- 👀 I’m interested in Buliding apps and having fun with it
+- 👀 I’m interested in Buliding Apps/Websites and having fun with it
 - 🌱 I’m currently learning Web-Development
 
 <!---
